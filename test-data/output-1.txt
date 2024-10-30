@@ -1,0 +1,2 @@
+SUCCESS # <- We succesfully created the ship
+FAIL # <- We fail to fire because the first bay always fails
